@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shahwaiz-Essa
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning CS50X
+- 💞️ I’m looking to collaborate on any project learning
+- 📫 You can reach me through my gmail: Shahwaiz.essa10@gmail.com
